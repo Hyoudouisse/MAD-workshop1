@@ -25,8 +25,8 @@ Step 5: Working with the MainActivity2 File
 ```
 /*
 Workshop on developing an android application to pass the data between the activities using Intent .
-Developed by: Sabitha P
-Registeration Number : 212222040137
+Developed by: DHAYANITHI T
+Registeration Number : 212221040040
 */
 ```
 ### In activity_main.xml
