@@ -365,10 +365,9 @@ public class MainActivity2 extends AppCompatActivity {
 }
 ```
 ## OUTPUT
-![WhatsApp Image 2024-03-24 at 19 43 56_70d3ef26](https://github.com/sabithapaulraj/Workshop---Mobile-Application-Development/assets/118343379/151bc80e-18a3-46ac-bfce-c7238eb753b5)
-![WhatsApp Image 2024-03-24 at 20 06 53_f2f6e4b8](https://github.com/sabithapaulraj/Workshop---Mobile-Application-Development/assets/118343379/616e3cb1-2f36-48c4-995c-de24393e1c58)
-![WhatsApp Image 2024-03-24 at 20 06 54_7f1e162f](https://github.com/sabithapaulraj/Workshop---Mobile-Application-Development/assets/118343379/449610c6-90c0-4ddf-a523-dc8375a48cad)
-
+![WhatsApp Image 2024-04-08 at 11 01 17 AM](https://github.com/Hyoudouisse/MAD-workshop1/assets/142372168/995bcfd9-3024-4c5d-b4c2-9cfac83653fd)
+![WhatsApp Image 2024-04-08 at 10 57 33 AM](https://github.com/Hyoudouisse/MAD-workshop1/assets/142372168/8f7d0a75-5d24-4f91-b497-b0b07514218e)
+![WhatsApp Image 2024-04-08 at 10 57 33 AM](https://github.com/Hyoudouisse/MAD-workshop1/assets/142372168/7f2f6ab9-f498-451f-9174-eca4f8f525ab)
 
 
 ## RESULT
